@@ -10,7 +10,6 @@ Alumno: José Luis Martínez Chávez
 
 **MENU:** 
  _dataset de las 4 plataformas y los 8 rating._ en _"https://drive.google.com/drive/folders/1b49OVFJpjPPA1noRBBi1hSmMThXmNzxn"_
-* **Machine Learning** - _carpeta que contiene la parte de EDA y el Sistema de Recomendación. ._
 * **ETL.ipynb** - _notebook con las transformaciones pedidas._
 * **EDA_1.ipynb** - _notebook con las transformaciones pedidas._
 * **main.py** - _contiene el llamado de la APi._
