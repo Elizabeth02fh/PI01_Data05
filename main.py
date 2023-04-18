@@ -80,3 +80,9 @@ async def get_contents(rating: str):
     q6 = queries.get_contents(rating)
 
     return {"rating" : rating, "contenido" : q6}
+# Sistema de recomendación:
+@app.get('/get_recomendation/{title}')
+async def get_recomendation(title: str,):
+    reco = queries.get_recomendation(title)
+
+    return {"recomendacion:": reco}
